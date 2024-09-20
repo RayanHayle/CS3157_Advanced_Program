@@ -1,6 +1,6 @@
 Part 1
 -------
- I complete this, the wesbite was temrory and down after the course ended.
+I complete this part, the website was temporary and down after the course ended.
 
 Part 2
 ------
