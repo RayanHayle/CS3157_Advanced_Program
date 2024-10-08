@@ -145,7 +145,6 @@ search[6] = '\0';
     struct Node *current = record_list.head;
 //ISSUE FIXED: free all data in while loop remove all node but
 //source lecture 11, notes libaries 
-// sent email to get approval 
 //Source:    https://stackoverflow.com/questions/76078825/delete-all-nodes-in-a-linked-list-in-c
 
     while (current != NULL) {
