@@ -81,7 +81,7 @@ int main (int argc, char  **argv){
 		128.59.22.109 "GET /cs3157/tng/images/ship.jpg HTTP/1.1" 200 OK 
        	7.  - The server must log each request to stdout like this:
          8. It should show the client IP address, the entire request line, and the status  code and reason phrase that it just sent to the browser.      
-           
+	''           
 	*/
 	
 	FILE* input = fdopen(clntsock,"rb");//step 1, can be images as well so read binary 
